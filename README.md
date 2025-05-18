@@ -1,4 +1,3 @@
-
 ## 🎓 About Me
 
 I'm a Computer Science Engineering student at Thapar Institute of Engineering and Technology. I'm passionate about web development, problem-solving, and applying AI to create innovative solutions.
@@ -8,11 +7,14 @@ I'm a Computer Science Engineering student at Thapar Institute of Engineering an
 - 💻 Full-stack web developer with experience in modern frameworks
 - 🚀 Constantly exploring new technologies and methodologies
 
-📫 How to reach me:
-**Email:** bansalkeshav8888@gmail.com
-**Portfolio:** https://keshav-bansal05.github.io
+## 📫 Contact Me
+
+### **Email:** **`bansalkeshav8888@gmail.com`**
+
+### **Portfolio:** **[keshav-bansal05.github.io](https://keshav-bansal05.github.io)**
 
 ## 🌐 Socials
+
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keshavbansal06/)
 
 ## 🛠️ Technical Skills

@@ -1,11 +1,3 @@
-# 👋 Hi, I'm Keshav Bansal
-
-## 🌐 Socials
-
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keshavbansal06/)
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://keshav-bansal05.github.io)
-
-📧 **Email:** bansalkeshav8888@gmail.com [![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bansalkeshav8888@gmail.com)
 
 ## 🎓 About Me
 
@@ -15,6 +7,13 @@ I'm a Computer Science Engineering student at Thapar Institute of Engineering an
 - 🌱 Published researcher in the field of medical image processing
 - 💻 Full-stack web developer with experience in modern frameworks
 - 🚀 Constantly exploring new technologies and methodologies
+
+📫 How to reach me:
+**Email:** bansalkeshav8888@gmail.com
+**Portfolio:** https://keshav-bansal05.github.io
+
+## 🌐 Socials
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keshavbansal06/)
 
 ## 🛠️ Technical Skills
 

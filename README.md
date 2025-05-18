@@ -1,3 +1,5 @@
+<div style="font-size: 110%;">
+
 ## 🎓 About Me
 
 I'm a Computer Science Engineering student at Thapar Institute of Engineering and Technology. I'm passionate about web development, problem-solving, and applying AI to create innovative solutions.
@@ -9,9 +11,9 @@ I'm a Computer Science Engineering student at Thapar Institute of Engineering an
 
 ## 📫 Contact Me
 
-### **Email:** **`bansalkeshav8888@gmail.com`**
+**Email:** bansalkeshav8888@gmail.com
 
-### **Portfolio:** **[keshav-bansal05.github.io](https://keshav-bansal05.github.io)**
+**Portfolio:** [https://keshavvbansal.vercel.app/](https://keshavvbansal.vercel.app/)
 
 ## 🌐 Socials
 
@@ -69,3 +71,5 @@ _Published in Optics & Laser Technology (Elsevier), Volume 181 (2025)_
 ---
 
 ### 💬 Feel free to reach out for collaborations or just a chat about technology and innovation!
+
+</div>
